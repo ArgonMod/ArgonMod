@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/ArgonMod/ArgonMod/blob/master/Assets/ArgonMain.png)
 # Argon
 
 Introducing Argon! The new way to moderate your server.
