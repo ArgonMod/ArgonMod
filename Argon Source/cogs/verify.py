@@ -9,7 +9,7 @@ from datetime import datetime
 class Verification(commands.Cog):
     def __init__(self, bot):
         self.bot = bot 
-        self.client = mcl("mongodb://o:o99999@ds337377.mlab.com:37377/modtest")
+        self.client = mcl("replace with your mongodb url")
         self.db = self.client['modtest']
         self.col = self.db['verification']
 
