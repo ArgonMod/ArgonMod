@@ -19,28 +19,28 @@ class Verification(commands.Cog):
         if not ctx.invoked_subcommand:
             embed = discord.Embed(color=self.bot.embed)
             embed.set_author(name=ctx.guild, icon_url=ctx.guild.icon_url)
-            embed.add_field(name="-verified role @role", value=f"""
+            embed.add_field(name=F"{self.bot.prefix}verified role @role", value=f"""
             This command sets up the verification role that people get when they enter the server.          
             """)
-            embed.add_field(name=f"-verified after @role", value=f"""
+            embed.add_field(name=f"{self.bot.prefix}verified after @role", value=f"""
             This will setup the role that the user will get if he/she shall complete the verification.
             """)
-            embed.add_field(name=f"-verified send #channel <message>", value=f"""
+            embed.add_field(name=f"{self.bot.prefix}verified send #channel <message>", value=f"""
             This will setup the channel where the users will be able to access and chat in.
             You will specify a message so when new users come they will unSderstand what to do!
             """)
-            embed.add_field(name=f"-verified logging #channel", value=f"""
+            embed.add_field(name=f"{self.bot.prefix}verified logging #channel", value=f"""
             This logs whether the user was successful on the verification or that he/she failed.
             This will also log the roles given to him/her.
             """)
-            embed.add_field(name=f"-verified toggle", value=f"""
+            embed.add_field(name=f"{self.bot.prefix}verified toggle", value=f"""
             This is basically a switch. If you have disabled the verification it will enable it.
             If you have enabled the verification it will disable it.
             """)
-            embed.add_field(name=f"-verified settings", value=f"""
+            embed.add_field(name=f"{self.bot.prefix}verified settings", value=f"""
             Show the verification configurations.
             """)
-            embed.add_field(name=f"-fastverify @User", value=f"""
+            embed.add_field(name=f"{self.bot.prefix}fastverify @User", value=f"""
             You can automatically put the user passed verification.
             """)
             await ctx.send(embed=embed)
