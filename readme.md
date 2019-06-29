@@ -4,7 +4,7 @@
 Introducing Argon! The new way to moderate your server.
 
 ## Features
-Argon has Amazing features! But don't just take my word for it, read on! With Argon, every single action gets recorded. So if a user got banned from the server, you know who did it and when it happened. Don't want server invites, links, swear words or spam posted in your server? We got you covered. Do you want to allow some swear words but not others? Don't fear. Our swear filter is 100% configurable! Do you want to mute users after they hit 4 warnings? Never Fear, Argon is here.
+Argon has Amazing features! But don't just take my word for it, read on! With Argon, every single action gets recorded. So if a user got banned from the server, you know who did it and when it happened. Don't want server invites, links, swear words or spam posted in your server? We got you covered. Do you want to mute users after they hit 4 warnings? Never Fear, Argon is here. How about figuring out who invited your users? Don't frtm
 
 
 Some Of Argon's AMAZING Modules that can be __fully__ configured to your liking.
