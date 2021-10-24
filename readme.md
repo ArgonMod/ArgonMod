@@ -29,7 +29,7 @@ This is great, how could it possible get better? Well, I have one more amazing t
 
 
 ## Demo
-So you want a demo of our Amazing bot before getting started huh? [Come get your demo in our discord server!](https://discord.gg/kAnsjSK)
+The Demo Bot Has Been Shutdown Till Further Notice (Sorry)
 
 ## Getting Started
 Oh your ready to get started?  [Lets GO!](https://github.com/ArgonMod/ArgonMod/wiki/Getting-Started) Oh your to scared to hit the button? Cmon now, it's only a button..just reach..reeeaach..reeeaaaach. There ya go! Ya did it. Congrats! Oh you didn't do it? Wumpus is going to get mad at you. Don't tell me I didn't warn you.
